@@ -1,0 +1,79 @@
+body {
+	font-family: Verdana, sans-serif;
+	font-size: 25px;
+	color: gray;
+	background: none;
+	border: none;
+}
+
+a {
+	font: inherit;
+	font-weight: 500;
+	color: orangered;
+	background: none;
+	border-block: none;
+	text-decoration-line: none;
+	cursor: pointer;
+	transform: scale3d(1, 1, 1);
+}
+
+div.FirstPhase {
+	font: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: black;
+	border: solid;
+	min-width: none;
+}
+
+.Image, .Trailer {
+	text-align: center;
+}
+
+.left, .One {
+	left: inherit;
+	text-align: left;
+}
+
+.Right, .Two {
+	right: inherit;
+	text-align: right;
+	
+}
+
+div.SecondPhase {
+	font: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: black;
+	border: solid;
+	min-width: none;
+}
+
+div.ThirdPhase {
+	font: inherit;
+	font-size: inherit;
+	color: inherit;
+	background: black;
+	border: solid;
+	min-width: none;
+}
+
+.LineSpace {
+	font: inherit;
+	color: white;
+	background: none;
+	border-style: solid;
+	border-width: 5px;
+	border-color: slategray;
+}
+
+.Exit, .SurveyButton {
+	font: inherit;
+	color: none;
+	background: none;
+	border: none;
+	cursor: pointer;
+}
+
+
